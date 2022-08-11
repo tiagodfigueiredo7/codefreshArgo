@@ -1,3 +1,0 @@
-# codefreshArgo
-
-teste

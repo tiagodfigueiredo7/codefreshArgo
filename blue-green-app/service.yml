@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: simple-service
+  name: rollout-bluegreen-active
 spec:
   type: NodePort
   selector:
